@@ -1,0 +1,5 @@
+- Hi, I'm @Denvx
+- I am interested in creating a professional profile.
+- I'm currently learning in C
+- 📫 How to contact me: denversonali@gmail.com
+- I'm very focused and hardworking, there's a lot to come...
