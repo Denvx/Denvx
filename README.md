@@ -6,7 +6,7 @@
 - 🌱 Atualmente focado em aprender **C** e aprofundar meus conhecimentos em **Java** com cursos complementares
 
 #### Habilidades
-- 👨‍💻 **Linguagens:** [C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) (aprendendo), [JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) (em progresso).
+- 👨‍💻 **Linguagens:** [C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  (aprendendo), [JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) (em progresso).
 
 - 🔄 **Trabalho em equipe:** Experiência colaborativa desde cedo, o que fortalece minhas habilidades interpessoais e de comunicação.
 
@@ -29,4 +29,4 @@
   
 [![Intagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reeal_denver/)
 ![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denver-de-oliveira-91b1a2269/)
