@@ -6,7 +6,7 @@
 - 🌱 Atualmente focado em aprender **C** e aprofundar meus conhecimentos em **Java** com cursos complementares
 
 #### Habilidades
-- 👨‍💻 **Linguagens:** [C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  (aprendendo), [JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) (em progresso).
+- 👨‍💻 **Linguagens:** [![C]()](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  (aprendendo), [![JAVA()](https://www.alura.com.br/artigos/java?srsltid=AfmBOoo_G2NO6YkIrMaUSOJXDCOtqNL14wmR_9pfqnJHFJxacebqY-04) (em progresso).
 
 - 🔄 **Trabalho em equipe:** Experiência colaborativa desde cedo, o que fortalece minhas habilidades interpessoais e de comunicação.
 
