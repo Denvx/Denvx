@@ -1,30 +1,18 @@
-## Olá, me chamo Denver
-- 💻 **Desenvolvedor em formação**, no 1º semestre de **Desenvolvimento de Sistemas** pelo **SENAI**
 
-- 🔍 Apaixonado por resolver problemas e aprender novas tecnologias
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Dn sonaly) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@DevDenvx) 
 
-- 🌱 Atualmente focado em aprender **C** e aprofundar meus conhecimentos em **Java** com cursos complementares
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Denvx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Denvx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Denvx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#### Habilidades
-- 👨‍💻 **Linguagens:** [![C]()](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  (aprendendo), [![JAVA()](https://www.alura.com.br/artigos/java?srsltid=AfmBOoo_G2NO6YkIrMaUSOJXDCOtqNL14wmR_9pfqnJHFJxacebqY-04) (em progresso).
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Denvx&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🔄 **Trabalho em equipe:** Experiência colaborativa desde cedo, o que fortalece minhas habilidades interpessoais e de comunicação.
+---
+[![](https://visitcount.itsvg.in/api?id=Denvx&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🎯 **Aptidão para aprendizado:** Facilidade em absorver novos conceitos com explicações objetivas e claras.
-
-#### Objetivos
-- 📈 Desenvolver uma base sólida em programação e boas práticas de desenvolvimento, Com foco na construção de código limpo e eficiente, sempre prezando pela qualidade e funcionalidade.
-
-- 💡 Tenho interesse em contribuir para projetos open-source e colaborar em equipes diversas, aprender com projetos de código aberto, contribuindo para a comunidade e adquirindo novas experiências com desenvolvedores de diferentes contextos e níveis de habilidade.
-
-- 🛠️ Meu foco é inclui e expandir meu conhecimento para o desenvolvimento backend, dominar ferramentas essenciais para o trabalho em equipe, como Git, CI/CD, e metodologias ágeis.
-
-- 📫 **Contato:**
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#sent?compose=DmwnWtMgCFTJGcKkSfWJKZLpgmWGkBGXKSCgSTHqZWXHGbNwGSkgvfkVjqPrXVhPJppBTMbJrKZl)
-
-- 🌐 **Conecte-se comigo:**
-  
-[![Intagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reeal_denver/)
-![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denver-de-oliveira-91b1a2269/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
