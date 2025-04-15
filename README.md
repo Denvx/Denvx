@@ -42,8 +42,8 @@
 ### 📊 GitHub Stats & Linguagens
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Denvx&show_icons=true&theme=blue&hide_title=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denvx&layout=compact&theme=blue&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Denvx&show_icons=true&theme=dark&hide_title=true&hide_border=true&icon_color=0000ff&text_color=ffffff&bg_color=000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denvx&layout=compact&theme=dark&hide_border=true&icon_color=0000ff&text_color=ffffff&bg_color=000000&langs_count=10"/>
 </p>
 
 ---
