@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, sou o Denver!</h1>
+<p align="center">💻 Desenvolvedor em formação | Criativo e focado | Apaixonado por resolver com tecnologia</p>
 
-<!--
-**Denvx/Denvx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍🎓 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de Desenvolvimento de Sistemas no **SENAI** – 2º semestre  
+- 🔧 Praticando lógica com **C, C++**, e desenvolvendo sistemas em **Java**
+- 🛒 Criando um **e-commerce** e um **sistema escolar**
+- 🧠 Explorando eletrônica com **ESP32** e sensores reais em um TCC hospitalar
+- ❤️ Trabalho junto com minha namorada na marca esportiva **OLIMPU**
+
+---
+
+### 🚀 Tecnologias que uso
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+
+---
+
+### 🧩 Projetos em Destaque
+
+- 🏫 **Sistema Escolar Infantil** – Java com boas práticas, controle de matrícula e datas
+- 🩺 **TCC: Relógio inteligente para triagem hospitalar**
+  - Sensores: 💓 Batimentos, 🌡️ Temperatura (MLX90614), 🧠 SpO2
+  - Placa: 📟 ESP32 TTGO T-Display + 🔋 bateria recarregável
+  - Sistema de alerta visual com integração real-time
+- 🛒 **E-commerce de roupas** com banco de dados completo (MySQL)
+
+---
+
+### 📊 GitHub Stats & Linguagens
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Denvx&show_icons=true&theme=blue&hide_title=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denvx&layout=compact&theme=blue&hide_border=true"/>
+</p>
+
+---
+
+### 📅 Calendário de Contribuições
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Denvx&theme=github&area=true&hide_border=true&line=0000ff&point=0000ff&color=0000ff&width=300&height=100" alt="Contribution graph"/>
+</p>
+
+### 📫 Contato
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denver.o.dev@gmail.com)   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Denvx)
