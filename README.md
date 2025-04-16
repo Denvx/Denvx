@@ -9,7 +9,7 @@
 - 🔧 Praticando lógica com **C, C++**, e desenvolvendo sistemas em **Java**
 - 🛒 Criando um **e-commerce** e um **sistema escolar**
 - 🧠 Explorando eletrônica com **ESP32** e sensores reais em um TCC hospitalar
-- ❤️ Trabalho junto com minha namorada na marca esportiva **OLIMPU**
+- ❤️ Trabalho junto com minha namorada na marca esportiva **EK MODA FIT**
 
 ---
 
