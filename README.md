@@ -15,7 +15,7 @@
 
 ### 🚀 Tecnologias que uso
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -43,19 +43,26 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Denvx&show_icons=true&theme=dark&hide_title=true&hide_border=true&icon_color=0000ff&text_color=ffffff&bg_color=000000&cache_seconds=1800&dummy=1"/>
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denvx&layout=compact&theme=dark&hide_border=true&icon_color=0000ff&text_color=ffffff&bg_color=000000&langs_count=10&cache_seconds=1800"/>
 </p>
-
-
 
 ---
 
 ### 📅 Calendário de Contribuições
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Denvx&theme=github-compact&area=true&hide_border=true&line=0000ff&point=0000ff&color=ffffff" alt="Contribution graph"/>
 </p>
 
+---
 
 ### 📫 Contato
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denver.o.dev@gmail.com)   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Denvx)
+
+<p align="center">
+  <a href="mailto:denver.o.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Denvx">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
