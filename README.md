@@ -5,15 +5,14 @@
 
 ### 👨‍🎓 Sobre mim
 
-- 🎓 Estudante de Desenvolvimento de Sistemas no **SENAI** – 2º semestre  
-- 🔧 Praticando lógica com **C, C++**, e desenvolvendo sistemas em **Java**
-- 🛒 Criando um **e-commerce** e um **sistema escolar**
-- 🧠 Explorando eletrônica com **ESP32** e sensores reais em um TCC hospitalar
-- ❤️ Trabalho junto com minha namorada na marca esportiva **EK MODA FIT**
+- 🎓 Estudante de Desenvolvimento de Sistemas no **SENAI** – 3º semestre  
+- 🔧 Praticado lógica com **C, C++**, e desenvolvendo sistemas em **Java**
+- 🧠 Explorei eletrônica com **ESP32, arduino** e sensores reais
+- 💻 Trabalhando jundo com meus colegas, no desenvolvimento de um app para o TCC**
 
 ---
 
-### 🚀 Tecnologias que uso
+### 🚀 Tecnologias que uso no **CURSO**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
@@ -36,7 +35,7 @@
   - Sensores: 💓 Batimentos, 🌡️ Temperatura (MLX90614), 🧠 SpO2
   - Placa: 📟 ESP32 TTGO T-Display + 🔋 bateria recarregável
   - Sistema de alerta visual com integração real-time
-- 🛒 **E-commerce de roupas** com banco de dados completo (MySQL)
+- 🛒 **E-commerce de roupas** com banco de dados completo
 
 ---
 
