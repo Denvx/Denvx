@@ -56,7 +56,9 @@
 
 ---
 
-### 📫 Contato
+
+<p align="center"> 📫 Contato </p>
+
 
 <p align="center">
   <a href="mailto:denver.o.dev@gmail.com">
