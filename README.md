@@ -2,7 +2,6 @@
 <p align="center">💻 Desenvolvedor em formação | Criativo e focado | Apaixonado por resolver com tecnologia</p>
 
 ---
-
 ### 👨‍🎓 Sobre mim
 
 - 🎓 Estudante de Desenvolvimento de Sistemas no **SENAI** – 3º semestre  
