@@ -16,6 +16,7 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -25,17 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
-
----
-
-### 🧩 Projetos em Destaque
-
-- 🏫 **Sistema Escolar Infantil** – Java com boas práticas, controle de matrícula e datas
-- 🩺 **TCC: Relógio inteligente para triagem hospitalar**
-  - Sensores: 💓 Batimentos, 🌡️ Temperatura (MLX90614), 🧠 SpO2
-  - Placa: 📟 ESP32 TTGO T-Display + 🔋 bateria recarregável
-  - Sistema de alerta visual com integração real-time
-- 🛒 **E-commerce de roupas** com banco de dados completo
 
 ---
 
