@@ -15,13 +15,13 @@
 ### 🚀 Tecnologias que uso no **CURSO**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> <p align="center"> O começo de tudo, aprendendo uma logica com essa linguagem de baixo nivel</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> O começo de tudo, aprendendo uma logica com essa linguagem de baixo nivel
   <br>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> <p align="center"> Usado para fazer automações com ESP32, Protoboards, integração com firebase, Boot´s do telegran e interfaçes</p>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> Usado para fazer automações com ESP32, Protoboards, integração com firebase, Boot´s do telegran e interfaçes
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> <p align="center"> Aprendendo a logica e sintaxe para alguns projetos de finais de semestre</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> Aprendendo a logica e sintaxe para alguns projetos de finais de semestre
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/> <p align="center"> Aplicando o que aprendi em java, entrando com xml para um pouco de front para a criação de um app</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/> Aplicando o que aprendi em java, entrando com xml para um pouco de front para a criação de um app
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <br>
