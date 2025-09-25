@@ -5,7 +5,7 @@
 ### 👨‍🎓 Sobre mim
 
 - 🎓 Estudante de Desenvolvimento de Sistemas no **SENAI** – 3º semestre  
-- 🔧 Praticado lógica com **C, C++**, e desenvolvendo sistemas em **Java**
+- 🔧 Praticado lógica com **C, C++, HTML, CSS, PHP**, e desenvolvendo sistemas em **Java**
 - 🧠 Explorei eletrônica com **ESP32, arduino** e sensores reais
 - 💻 Trabalhando jundo com meus colegas, no desenvolvimento de um app para o TCC**
 
