@@ -5,24 +5,18 @@
 ### 👨‍🎓 Sobre mim
 
 - 🎓 Estudante de Desenvolvimento de Sistemas no **SENAI** – 3º semestre  
-- 🔧 Praticado lógica com **C, C++, HTML, CSS, PHP**, e desenvolvendo sistemas em **Java**
-- 🧠 Explorei eletrônica com **ESP32, arduino** e sensores reais
-- 💻 Trabalhando jundo com meus colegas, no desenvolvimento de um app para o TCC**
-
+- 🔧 Praticado lógica com **C, C++, HTML, CSS, PHP** e **Java**
 ---
 
 ### 🚀 Tecnologias que uso no **CURSO**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
 ---
