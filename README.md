@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, sou o Denver!</h1>
-<p align="center">💻 Desenvolvedor em formação | Criativo e focado | Apaixonado por resolver com tecnologia</p>
+<p align="center">💻 Desenvolvedor em formação | Criativo e focado | Apaixonado por resolver problemas com tecnologia</p>
 
 ---
 ### 👨‍🎓 Sobre mim
