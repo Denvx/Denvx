@@ -24,54 +24,30 @@ Sou apaixonado por tecnologia e por transformar problemas reais em soluções ef
 
 ## 🛠️ Stack Tecnológica
 
-### 💻 Linguagens Principais
+### 💻 Back-end & Lógica
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
 </p>
 
 <p align="center">
-  Java • C • C++
+  Java • C • C++ • PHP
 </p>
 
 ---
 
-### 🌐 Desenvolvimento Web
+### 🌐 Front-end
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 </p>
 
 <p align="center">
-  PHP • HTML • CSS
+  Vue.js • HTML • CSS
 </p>
-
-### 🗄️ Banco de Dados
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
-
-### 🔧 Ferramentas
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-</p>
-
----
-
-## 🚀 Projetos em Destaque
-
-🔹 **Sistema Escolar em Java**  
-Sistema focado em regras de negócio, organização de classes e boas práticas de back-end.
-
-🔹 **Sistema de Monitoramento Hospitalar com ESP32**  
-Projeto acadêmico integrando sensores biomédicos (batimento cardíaco e temperatura) com sistema em tempo real.
-
-🔹 **Banco de Dados para E-commerce**  
-Modelagem estruturada com foco em BI e consultas estratégicas.
-
 ---
 
 ## 📊 Estatísticas GitHub
