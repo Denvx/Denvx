@@ -1,8 +1,10 @@
 <h1 align="center">🚀 Denver Oliveira</h1>
+
 <p align="center">
   <strong>Desenvolvedor Back-end em formação</strong><br>
-  Construindo soluções organizadas, escaláveis e orientadas a boas práticas.
+  Focado em construir aplicações organizadas, escaláveis e prontas para produção.
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Disponível%20para%20Estágio%20e%20Júnior-success?style=for-the-badge"/>
 </p>
@@ -11,12 +13,23 @@
 
 ## 👨‍💻 Sobre Mim
 
-🎓 Estudante de Desenvolvimento de Sistemas – 3º semestre (SENAI)
-🧠 Forte base em lógica de programação e estrutura de dados
-🔍 Foco em back-end, organização de código e regras de negócio
-🚀 Sempre buscando evoluir como desenvolvedor profissional
+🎓 Desenvolvimento de Sistemas – 4º semestre (SENAI)  
+🎓 Engenharia de Software – 1º semestre  
+🧠 Forte base em lógica de programação e estrutura de dados  
+🔍 Foco em back-end, APIs e regras de negócio  
+☁️ Experiência com deploy e ambientes de produção (VPS e Render)  
 
-Sou apaixonado por tecnologia e por transformar problemas reais em soluções eficientes através do código.
+Busco transformar problemas reais em soluções eficientes, com código limpo, bem estruturado e seguindo boas práticas.
+
+---
+
+## ⚙️ Especialidades
+
+- 🔧 Desenvolvimento Back-end (Java, Python, JavaScript)
+- 🗄️ Modelagem e manipulação de banco de dados (MySQL)
+- ⚙️ Estruturação de APIs REST
+- ☁️ Deploy de aplicações (Render)
+- 🖥️ Configuração e uso de VPS (Linux)
 
 ---
 
@@ -26,11 +39,13 @@ Sou apaixonado por tecnologia e por transformar problemas reais em soluções ef
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
 </p>
-<p align="center">Java &bull; C &bull; C++ &bull; PHP</p>
+
+<p align="center">Java • Python • JavaScript • C • C++</p>
 
 ---
 
@@ -41,7 +56,8 @@ Sou apaixonado por tecnologia e por transformar problemas reais em soluções ef
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 </p>
-<p align="center">Vue.js &bull; HTML &bull; CSS</p>
+
+<p align="center">Vue.js • HTML • CSS</p>
 
 ---
 
@@ -52,15 +68,56 @@ Sou apaixonado por tecnologia e por transformar problemas reais em soluções ef
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
-<p align="center">MySQL &bull; Git &bull; GitHub</p>
+
+<p align="center">MySQL • Git • GitHub</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🛒 Sistema de Pastelaria (Back-end + Banco de Dados)
+- Sistema com foco em gerenciamento de pedidos e vendas  
+- Modelagem de dados voltada para análise (BI)  
+- Estrutura organizada e preparada para crescimento  
+- 🔗 Em produção: *(adicione aqui seu link da Render)*  
+
+---
+
+### 🌐 API REST
+- Desenvolvimento de API com boas práticas  
+- Organização em camadas (Controller, Service, Repository)  
+- Integração com banco de dados  
+
+---
+
+## 🏗️ Boas práticas
+
+- Separação de responsabilidades (camadas)
+- Código limpo e legível
+- Versionamento com Git
+- Estruturação de projetos escaláveis
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como desenvolvedor back-end, onde eu possa aplicar meus conhecimentos em APIs, banco de dados e infraestrutura, contribuindo em projetos reais e evoluindo profissionalmente.
+
+---
+
+## ⚡ Diferenciais
+
+- Experiência com deploy real (Render)
+- Noções de ambiente Linux (VPS)
+- Foco em aplicações funcionais, não apenas acadêmicas
 
 ---
 
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Denvx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denvx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Denvx&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denvx&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -73,11 +130,11 @@ Sou apaixonado por tecnologia e por transformar problemas reais em soluções ef
 
 ---
 
-## 📫 Contato Profissional
+## 📫 Contato
 
 <p align="center">
   <a href="mailto:denver.o.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato%20Profissional-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/Denvx">
@@ -88,7 +145,7 @@ Sou apaixonado por tecnologia e por transformar problemas reais em soluções ef
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Denvx&style=flat-square&color=blue&label=Visitas+ao+perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=Denvx&style=flat-square&color=blue"/>
   <br/><br/>
   <sub><i>💡 Sempre aprendendo. Sempre construindo.</i></sub>
 </p>
