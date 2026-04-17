@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Denver Oliveira</h1>
+<h1 align="center">Denver Oliveira</h1>
 
 <p align="center">
   <strong>Desenvolvedor Back-end em formação</strong><br>
@@ -11,31 +11,31 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
-🎓 Desenvolvimento de Sistemas – 4º semestre (SENAI)  
-🎓 Engenharia de Software – 1º semestre  
-🧠 Forte base em lógica de programação e estrutura de dados  
-🔍 Foco em back-end, APIs e regras de negócio  
-☁️ Experiência com deploy e ambientes de produção (VPS e Render)  
+Desenvolvimento de Sistemas – 4º semestre (SENAI)  
+Engenharia de Software – 1º semestre  
+Forte base em lógica de programação e estrutura de dados  
+Foco em back-end, APIs e regras de negócio  
+Experiência com deploy e ambientes de produção (VPS e Render)  
 
 Busco transformar problemas reais em soluções eficientes, com código limpo, bem estruturado e seguindo boas práticas.
 
 ---
 
-## ⚙️ Especialidades
+## Especialidades
 
-- 🔧 Desenvolvimento Back-end (Java, Python, JavaScript)
-- 🗄️ Modelagem e manipulação de banco de dados (MySQL)
-- ⚙️ Estruturação de APIs REST
-- ☁️ Deploy de aplicações (Render)
-- 🖥️ Configuração e uso de VPS (Linux)
+- Desenvolvimento Back-end (Java, Python, JavaScript)
+- Modelagem e manipulação de banco de dados (MySQL)
+- Estruturação de APIs REST
+- Deploy de aplicações (Render)
+- Configuração e uso de VPS (Linux)
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
-### 💻 Back-end & Lógica
+### Back-end & Lógica
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
@@ -49,7 +49,7 @@ Busco transformar problemas reais em soluções eficientes, com código limpo, b
 
 ---
 
-### 🌐 Front-end
+### Front-end
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/>
@@ -61,7 +61,7 @@ Busco transformar problemas reais em soluções eficientes, com código limpo, b
 
 ---
 
-### 🗄️ Banco de Dados & Versionamento
+### Banco de Dados & Versionamento
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
@@ -73,24 +73,29 @@ Busco transformar problemas reais em soluções eficientes, com código limpo, b
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 🛒 Sistema de Pastelaria (Back-end + Banco de Dados)
-- Sistema com foco em gerenciamento de pedidos e vendas  
-- Modelagem de dados voltada para análise (BI)  
-- Estrutura organizada e preparada para crescimento  
-- 🔗 Em produção: *(adicione aqui seu link da Render)*  
+### Sistema de Planejamento de Rotas — AERJ
+- Aplicação real para automação do transporte universitário  
+- Processa listas desorganizadas (WhatsApp) automaticamente  
+- Identifica faculdades, alunos e classifica ida/volta  
+- Trata erros comuns como linhas vazias e formatação irregular  
+- Ordena rotas por distância geográfica  
+- Distribui alunos nos veículos respeitando capacidade  
+- Interface web com feedback visual e tutorial para usuários  
+
+🔗 Sistema online: https://student-transport-planner-py.onrender.com/
 
 ---
 
-### 🌐 API REST
+### API REST
 - Desenvolvimento de API com boas práticas  
 - Organização em camadas (Controller, Service, Repository)  
 - Integração com banco de dados  
 
 ---
 
-## 🏗️ Boas práticas
+## Boas práticas
 
 - Separação de responsabilidades (camadas)
 - Código limpo e legível
@@ -99,13 +104,13 @@ Busco transformar problemas reais em soluções eficientes, com código limpo, b
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Busco minha primeira oportunidade como desenvolvedor back-end, onde eu possa aplicar meus conhecimentos em APIs, banco de dados e infraestrutura, contribuindo em projetos reais e evoluindo profissionalmente.
 
 ---
 
-## ⚡ Diferenciais
+## Diferenciais
 
 - Experiência com deploy real (Render)
 - Noções de ambiente Linux (VPS)
@@ -113,7 +118,7 @@ Busco minha primeira oportunidade como desenvolvedor back-end, onde eu possa apl
 
 ---
 
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Denvx&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -122,7 +127,7 @@ Busco minha primeira oportunidade como desenvolvedor back-end, onde eu possa apl
 
 ---
 
-## 📈 Atividade
+## Atividade
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Denvx&theme=tokyo-night&hide_border=true"/>
@@ -130,7 +135,7 @@ Busco minha primeira oportunidade como desenvolvedor back-end, onde eu possa apl
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p align="center">
   <a href="mailto:denver.o.dev@gmail.com">
@@ -147,5 +152,5 @@ Busco minha primeira oportunidade como desenvolvedor back-end, onde eu possa apl
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Denvx&style=flat-square&color=blue"/>
   <br/><br/>
-  <sub><i>💡 Sempre aprendendo. Sempre construindo.</i></sub>
+  <sub><i>Sempre aprendendo. Sempre construindo.</i></sub>
 </p>
